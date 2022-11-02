@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "name": "Utils",
+      "type": "expense",
+      "amount": 1258,
+      "id": 4
+    },
+    {
+      "name": "Outsourcing",
+      "type": "income",
+      "amount": 20000,
+      "id": 5
+    },
+    {
+      "name": "net bill",
+      "type": "expense",
+      "amount": 1400,
+      "id": 6
+    },
+    {
+      "name": "Home rent",
+      "type": "expense",
+      "amount": 25000,
+      "id": 7
+    },
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 50000,
+      "id": 8
+    }
+  ]
+}
